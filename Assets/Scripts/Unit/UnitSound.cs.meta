@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7325cd360fbb9894785cf3b24eb60102
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cancion: {instanceID: 0}
+  - explosion1: {fileID: 8300000, guid: d73a4b27db29da04b8f08c9b730179b6, type: 3}
+  - explosion2: {fileID: 8300000, guid: c1fdc0a74cc5a0b46a551b830570da02, type: 3}
+  - explosion3: {fileID: 8300000, guid: b00f5b7f75360cf47aa00f931174f186, type: 3}
+  - explosion_cohete1: {fileID: 8300000, guid: bbca0e23bfa761843be57afa1dc891e2, type: 3}
+  - explosion_cohete2: {fileID: 8300000, guid: 6fd40d8945b183346aabcf90d95d569b, type: 3}
+  - ametralladora1: {fileID: 8300000, guid: 9066abb61914bc844bb6017a13828771, type: 3}
+  - ametralladora2: {fileID: 8300000, guid: 3fc1b88ad168c8d4ca3ff6b510ca763c, type: 3}
+  - rifle1: {fileID: 8300000, guid: 2e027f96e95d7d34f91906631eb065fe, type: 3}
+  - rifle2: {fileID: 8300000, guid: b71a645748020ef4e80bf1159170b306, type: 3}
+  - smg1: {fileID: 8300000, guid: f769c02f4bc7e4e4f80f1fba33c708af, type: 3}
+  - smg2: {fileID: 8300000, guid: 7e44aba363131a34887a0e97ecbae10a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

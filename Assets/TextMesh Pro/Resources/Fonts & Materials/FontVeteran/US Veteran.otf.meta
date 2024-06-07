@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d7f9f2625cc65454684bc3a149b601bc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - US Veteran
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 81cade235d437ee46b906839f64d6c63, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1 @@
+public enum TypeOfSoldier { INF, REC, MED, SUPP, OF, AT }
